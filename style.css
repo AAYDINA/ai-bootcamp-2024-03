@@ -1,0 +1,30 @@
+.logo {
+  width: 100px;
+  height: 100px;
+}
+
+.gallery img {
+  transition: transform 0.5s ease;
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.gallery img:hover {
+  transform: scale(1.05);
+}
+
+.caption {
+  padding: 5px;
+  text-align: center;
+}
+
+article {
+  margin-bottom: 15px;
+}
+
+article img {
+  border: 2px solid black;
+  padding: 5px;
+  box-sizing: border-box;
+}
