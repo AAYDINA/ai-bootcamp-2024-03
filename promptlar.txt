@@ -1,0 +1,35 @@
+Web Sitesi Promptu
+
+1.	Fotoğraf galerileri olan bir web sitesi oluşturmak istiyorum;
+Web sitemde bulunmasını istediğim etiketler (header, main, nav, section, article, aside, footer) şeklinde olmalıdır.
+HTML, CSS için CDN'yi kullanan Bootstrap çerçevesi ve JavaScript araçlarını kullanarak kodlanmalıdır.
+OLuşturulan web sitesi, farklı cihaz ve ekran boyutlarına uyumlu olmalıdır. Mobil, tablet ve masaüstü cihazlarda düngün şekilde görüntülenmeli ve her boyutta optimize edilmiş olmalıdır. 
+HTML, CSS ve Javascript kodlarini ayrı çıktılar istiyorum. 
+HTML dosyasının ismi index.html, css dosyasının ismi style.css ve javascript dosyasının ismi ise 1.js olmalıdır.
+Düzen ve stil açısından site yapısında Twitter Bootstrap CSS sınıflarının en son sürümünü de içermelidir.
+Bu kurallar ile aşağıdaki detaylarla birlikte çıktıları almak istiyorum;
+Anasayfada en üst taraftaki header kısmı siyah dolgu renkli olsun, header alanında sol köşesinde logo olsun. Logodan sonra ortalı şekilde beyaz renk ile  "AI POST - Yapay Zeka Haberleri" yazısı olsun ve sağ köşede ise navigasyon menüleri olsun. Hizalama olarak Logo sol köşede, yazı ortada ve navigasyon bölümü sağ köşede olacak şkeilde öğeler eşit aralıklarla hizalanmalı.  
+Logo dosyasının ismi; logo.png dosyasıdır. Logo, anasayfanın sol üst köşesinde 100x100 boyutlarında olmasını ve header sınırları içerisinde kalmasını istiyorum.
+Navigasyon bölümü ise yine header alanında sağ tarafa dayalı şekilde olmalı ve; Hakkımızda, İletişim, AI Girişi kısımları olsun.
+Sayfanın içeriğinin galeri görünümünde, fotoğraflar orijinal boyutlarını korurken, fotoğrafları kapsayacak şekilde boyutlandırır, fotoğrafları blok element olarak ayarlama. Her bir ızgarada 3 adet fotoğrafın yer almasını ve burada yer alacak resim içeriğinin kırpılmamasını istiyorum.
+Bu şekilde 3 ızgara istiyorum. 1. Izgarada resim1.jfif ve resim2.jfif, resim3.jfif, 2. Izgarada ise resim4.jfif, resim5.jfif, resim6.jfif olacak, 3. Izgarada ise resim7.jfif, resim8.jfif, resim9.jfif olacak. Izgaralar arasında az da olsa biraz mesafe istiyorum.
+Fotoğrafların üzerine gelindiginde fotoğrafları yüzde 5 oranında büyültsün ve bu geçiş efekti yavaş hızda olsun. Fotoğrafların altında bir açıklama kutucuğu olmasını istiyorum. Örneğin resim1 fotoğrafının altında açıklama kutucuğunda resim1 açıklama burada yazması benim için yeterli. Fotoğraf isimlerinin başlıklarının arka planına siyah bir arka plan ekle ve yazı stil rengini beyaza cevir.
+Article içerisinde yer alan resimleri bir çerçeve içerisine alıp 2px kalınlığında çerçeve oluşturmalısın, resim içeriği ile çerçeve arasındaki boşluk 5px olmalı,  
+Sayfa içeriğindeki başlıklara dahili bağlantılar içeren bir gezinme menüsü de eklenmeli.
+Bunlara bağlı olarak aynı işlemi görselere ait bilgilerin bulundugu kısımlarıda dahil edilmeli.
+Anasayfanın en alt kısmında yani footer bölümü de header kısmındaki gibi siyah dolgu arkaplanlı ve logolu olsun, logodan sonra ortalı şekilde beyaz renkli "AI POST - Yapay Zeka Haberleri" yazsın, sağ köşede ise "CopyRight © 2024 GPT" yazsın.
+2.	index.html içerisinde sadece 1. Izgarayı görebiliyorum, resim4.jfif dosyasının yer aldığı alan olan 2. Izgarayı ve 3. Izgarayı göremiyorum. Bunu düzeltir misin?
+
+Görsel Promptlar
+Logo	: arkaplanı transparan, boyutları 200x200px olan, dijital bir dünya küresi üzerine beyaz renk ile 'AIPOST' yazılı logo tasarımı yap lütfen. 
+> Örnekleri çoğaltır mısın?
+
+1.	Resim	: AYGAZ tüp bayisi, tabela rengi mavi ve üzerinde beyaz yazılar ile 'AYGAZ - ANKARA' yazılı, deponun içerisi ve önünde birkaç tane gri mutfak tüpü, deponun önünde 4 erkek konuşuyor, 2 tanesi şirket çalışanı, açık kasası olan ve yarısı gri mutfak tüpü dolu bir tır, tırın üzerinde mavi renkte AYGAZ yazısı, mavi renkte AYGAZ yazan üniformalı robotlar gri mutfak tüpleri depodan tıra taşısın.
+2.	Resim	: ben robot filmindeki sonny isimli robot; Global Ai Hub yazısı olan bir çevirimiçi toplantı odasındaki erkek ve kadın katılımcılara hologram teknolojisi ile robot şematiğinin sunumunu yapsın.
+3.	Resim	: maldivler gibi harika bir sahilde, güneşlenen ve güneş gözlüğü takmış bir yapay zeka robotu çiz lütfen. Güneş gözlükleri biraz transparan olsun ve dijital gözleri görünsün. Sağ omuzunda da mor renkte bir havlusu olsun, sağ bileğinde ise mor kordonlu bir klasik saati olsun. Sağ eliyle sağ omuzundaki mor havlusunu düzeltsin. Yakınında bir bar olsun ve bar üzerinde bira bardağı içerisinde makina yağı olsun ve bardak üzeridne "MACHINE OIL" yazsın, üzerinde 1 küp buz ve pipette olsun. 
+4.	Resim	: Bir laboratuvar ortamında yapay zeka ile çalışan bir robot, insan gözü için lens tasarlarsın ve hologram teknolojisini kullansın lütfen.
+5.	Resim	: Metaverse’de satılık bir alan olsun ve alanlar üzerinde bitcoin işaretleri olsun. Ağırlıklı olarak Koyu mavi, açık mavi renklerini kullan lütfen. Bitcoin sembolü ise parlayan bir altın renginde olsun.
+6.	Resim	: Popüler bir kafede, masada oturan kızgın ve kandırılmış hisseden bir erkek olsun, bir elinde telefon, diğer  elinde ise kahvesi olsun, telefona bakarken sohbet baloncuğunda 'ben sadece yapay zekayım, seninle gerçek hayatta bulusamam' yazısı ve gülme emojisi olsun lütfen.
+7.	Resim	: uzun , sağlıklı ve zengin bir hayatın fotoğrafını çizer misin? Ön planda bir robot eli ile insan eli anlaşarak tokalaşsın.
+8.	Resim	: Bulaşığı yıkayan, yemek yapabilen, temizlik yapabilen, yeni nesil bir robot yardımcı üzerinde türkçe karakterler ile yazılı Arçelik olan bir önlük olsun lütfen. 
+9.	Resim	: Karanlık bir toplantı odası olsun, bu toplantı odasında 5 kişilik bir masa ve 5 ayrı sandalye olsun. Sandalyelerden 3 tanesinde mimar olan insanlar olsun. İnsanların önünde çizimler olan magazinlik ve ajandalar olsun. 1 sandalyede ise ileri seviye yapay zeka robotu bulunsun sunum yapsın. Toplantı odasındaki masanın üzerinde bir yansıtıcı olsun ve aşağıda detayını vereceğim bilgileri 3 boyutlu dijital bir hologram şeklinde yansıtsın. 3 boyutlu hologram: İstanbul şehrinin 2.000 metre mesafeden görünüşünün dijital ve holografik bir şematiği olsun. Yollar parlak renklerde sarı ve kırmızı ile renklendirilsin. Park ve yeşil alanlar ise yeşil renk ile renklendirilsin. İstanbul boğazları ön planda tutulsun ve asva ve avrupa kıtaları net şekilde görünsün. Hologram ve şematiğin; etkileyici renklerle canlı görünmesini istiyorum. Etkile beni.
